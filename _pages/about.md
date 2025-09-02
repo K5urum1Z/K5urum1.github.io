@@ -1,8 +1,8 @@
 ---
 first_name: Junjie
 last_name: Zhao
-position: Undergraduate Student at Hefei University of Technology
-institution: Hefei University of Technology
+position: Hefei, Anhui Province
+institution: School of Mathematics, Hefei University of Technology
 email: junjiezhao326@mail.hfut.edu.cn
 homepage: https://ninozhao326.github.io/K5urum1.github.io/
 ---
