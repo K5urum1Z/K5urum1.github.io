@@ -4,7 +4,7 @@ last_name: Zhao
 position: Hefei, Anhui Province
 institution: School of Mathematics, Hefei University of Technology
 email: junjiezhao326@mail.hfut.edu.cn
-homepage: https://K5urum1Z.github.io/K5urum1.github.io/
+homepage: https://K5urum1Z.github.io/K5urum1Z.github.io/
 ---
 
 # About Me
