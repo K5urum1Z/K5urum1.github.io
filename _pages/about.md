@@ -4,7 +4,8 @@ last_name: Zhao
 position: Undergraduate Student at Hefei University of Technology
 institution: Hefei University of Technology
 email: junjiezhao326@mail.hfut.edu.cn
-homepage: [(https://ninozhao326.github.io/K5urum1.github.io/)---]
+homepage: https://ninozhao326.github.io/K5urum1.github.io/
+---
 
 # About Me
 
@@ -14,4 +15,5 @@ My research interests lie in 3D Vision Encoding and Compression, AIGC, and relat
 
 In my spare time, I enjoy exploring advancements in machine learning and deep learning and keeping up with the latest trends in computer vision and AI.
 
-Feel free to connect with me via email at junjiezhao326@mail.hfut.edu.cn(mailto:junjiezhao326@mail.hfut.edu.cn).
+Feel free to connect with me via email at [junjiezhao326@mail.hfut.edu.cn](mailto:junjiezhao326@mail.hfut.edu.cn).
+
